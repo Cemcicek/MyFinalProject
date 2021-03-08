@@ -60,3 +60,14 @@ C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\ConsoleUI\bin\Debug\netcoreap
 C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
 C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll

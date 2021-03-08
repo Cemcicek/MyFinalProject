@@ -10,8 +10,6 @@ C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.
 C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
 C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
 C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
-C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
-C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
 C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
 C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
@@ -66,3 +64,11 @@ C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.
 C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.1\DataAccess.pdb
 C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.1\Entities.pdb
 C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache

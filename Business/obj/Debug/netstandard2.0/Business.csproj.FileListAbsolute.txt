@@ -8,9 +8,9 @@ C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\Business\bin\Debug\netstandar
 C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
 C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
 C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
-C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
 C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.dll
 C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.pdb
 C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\Business\bin\Debug\netstandard2.0\Core.dll
 C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\Business\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\PC\Desktop\C# Yazılımcı\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
